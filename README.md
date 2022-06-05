@@ -1,2 +1,2 @@
 # WebDevelopment
-Compilation of files as a teach myself languages and frameworks for web development
+Compilation of files to display my self teaching journey in the world of web development.
